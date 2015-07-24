@@ -7,6 +7,8 @@
 <title>Hello World - JSP tutorial</title>
 </head>
 <body>
-	<r%= "Hello World!" %>
+	<%= "Hello World!" %>
+	
+		<%= "Hello Sai!" %>
 </body>
 </html>
